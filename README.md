@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dergg
 - 👀 I’m interested in Computer Science and Games Development
-- 🌱 I’m currently learning Visual Basic
-- 💞️ I’m looking to collaborate on my coursework (I have no idea what I'm doing half the time :c)
+- 🌱 I’m currently learning Python (again)
+- 💞️ I’m looking to get through uni before Python kills me
 - 📫 How to reach me ... (don't)
 
 <!---
