@@ -1,4 +1,4 @@
-Hi, I'm Derg. I'm a third year CompSci student at university, always looking to expand my skillset and apply my knowledge to different things.
+Hi, I'm Derg. I'm a third year CompSci student at Durham University, always looking to expand my skillset and apply my knowledge to different things.
 I've got experience in the following programming languages...
 - C / C++ / C#
 - Python
