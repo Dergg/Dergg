@@ -16,7 +16,9 @@ And here's what I'm currently working on...
 - Final year project at uni; processing crowdsourced free-text data
 - Virtual reality in Python using PyGame
 - Deep learning for classification (AddNIST) and generative modelling (CIFAR-100)
-- Music computing alogirhtms
+- Music computing algorithms
+
+Outside of computer science related activities, I'm actively looking at working on VRChat avatars and worlds, as well as hoping to start a project based on real life racing to work as a virtual transponder for simulator racing applications. Also looking for work for when I graduate!
 
 <!---
 Dergg/Dergg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
