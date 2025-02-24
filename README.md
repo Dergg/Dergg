@@ -11,12 +11,13 @@ I've done a whole bunch of different modules, resulting in experience with many 
 - Developing multiple AI search algorithms for finding shortest path, including PREACO and Simulated Annealing
 - Using OpenCV for "cleaning up" an image for detecting pneumonia in x-ray images of lungs
 - Developing a machine learning algorithm to classify raisins
+- Deep learning algorithms to classify images (AddNIST) and generate images (CIFAR-100)
 
 And here's what I'm currently working on...
 - Final year project at uni; processing crowdsourced free-text data
 - Virtual reality in Python using PyGame
-- Deep learning for classification (AddNIST) and generative modelling (CIFAR-100)
-- Music computing algorithms
+- Music computing algorithm to visualise music, "Simulated Synaesthesia"
+- TD3 reinforcement learning algorithm for BipedalWoler
 
 Outside of computer science related activities, I'm actively looking at working on VRChat avatars and worlds, as well as hoping to start a project based on real life racing to work as a virtual transponder for simulator racing applications. Also looking for work for when I graduate!
 
